@@ -1,5 +1,3 @@
-package A;
-
 public final class Point3D implements Comparable<Point3D> {
     private final double x;
     private final double y;
