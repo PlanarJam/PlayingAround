@@ -1,4 +1,3 @@
-package A;
 import java.util.AbstractList;
 import java.util.Arrays;
 import java.lang.reflect.Array;
